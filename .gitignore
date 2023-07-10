@@ -1,0 +1,6 @@
+Theory*
+.hypothesis
+_pycache_
+venv
+lstm_*
+rnn_*
